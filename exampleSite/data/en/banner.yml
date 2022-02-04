@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image_webp: "/images/la-palma-volcano.png"
   bg_image: "/images/la-palma-volcano.png"
-  icon: ''
+  icon: "/images/download.png"
   title: Live and die in virtual reality
   content: Lorem ipsum dorim dupsim I write what I want
   button:
