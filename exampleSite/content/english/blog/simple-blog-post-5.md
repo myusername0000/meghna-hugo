@@ -1,8 +1,8 @@
 ---
 title: Now I'm changing this one
 date: 2018-09-12T12:52:36.000+06:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
+image_webp: "/images/bigoak.png"
+image: "/images/bigoak.png"
 author: John Doe
 description: This is meta description
 
