@@ -1,6 +1,6 @@
 ---
-title: Simple Blog Post
-date: 2018-09-12T12:52:36.000+06:00
+title: I'm from the future
+date: 2022-02-16T05:00:00+00:00
 image_webp: "/images/bigoak.png"
 image: "/images/bigoak.png"
 author: Ricky Rickson
@@ -27,3 +27,5 @@ wghui toafh
 
 HIGH HO HIGH HO OFF TO WORK WE GO  
 \--------------------------------------------------------------
+
+\#WELCOME TO ERF
